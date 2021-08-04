@@ -1,5 +1,5 @@
 import random
-feet_in_mile = 5280
+feet_in_mile = 5280.00
 meters_in_kilometer = 1000
 beatles = ["Jhon Lennon", "Paul McCartney"]
 
